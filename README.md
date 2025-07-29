@@ -9,7 +9,7 @@ Based on our initial vulnerability scan and assessment, we have created a set of
 2. [**Windows OS Secure Configuration (Insecure Protocols)**](https://github.com/CyberTechTorres/Automation/blob/main/Insecure%20Protocols)
 3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/CyberTechTorres/Automation/blob/main/Remediate%20Insecure%20Ciphersuites)
 4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/CyberTechTorres/Automation/blob/main/Remediate-guest-local-account)
-5. [**Windows OS CVE-2013-3900 (Enable CertPaddingcheck value)**](https://github.com/CyberTechTorres/Automation/blob/main/Remediate%20CVE-2013-3900)
+5. [**Windows OS CVE-2013-3900 (Enable CertPaddingCheck value)**](https://github.com/CyberTechTorres/Automation/blob/main/Remediate%20CVE-2013-3900)
 
 Let me know if you have any questions or need any adjustments!
 
